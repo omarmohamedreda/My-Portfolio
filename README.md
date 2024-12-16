@@ -29,9 +29,6 @@ Welcome to **My Portfolio**! 🎉 This repository showcases my work, projects, s
 ---
 
 
-
----
-
 ## Contributions
 
 Contributions are welcome! Here's how you can contribute:
